@@ -10,11 +10,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <head>
     <base href="<%=basePath%>">
     
-    <title>答题练习</title>
+    <title>json转table</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
   </head>
   
   <body>
 	host=${host}
+	<br>
+	<a href="main/index" target="_blank">/main/index</a>
+	<br>
   </body>
 </html>
