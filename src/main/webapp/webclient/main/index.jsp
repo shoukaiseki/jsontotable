@@ -32,7 +32,7 @@
   <head>
     <base href="<%=basePath%>">
     
-    <title>答案记录器</title>
+    <title>json转换为table查看</title>
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
